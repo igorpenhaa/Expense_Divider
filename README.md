@@ -1,6 +1,6 @@
 # goDu
 
-### What's up everyone!
+### What's up troop!
 
 goDu is a MVP (minimum viable product) Java project inspired by Splitwise app, an app to keep track of your shared expenses and balances with housemates, trips, groups, friends, and family.
 
@@ -13,7 +13,7 @@ Different to Splitwise, there's no login, so all the users and groups can be cre
 ## So... Let's go Dutch?  
 
 #### Special thanks to:
-[Igor Penha](https://github.com/igorpenhaa), my colleague, who spend hours discussing and coding with me.  
+[Bruno Ribeiro](https://github.com/BrunoRiibeiro), my colleague, who spend hours discussing and coding with me.  
 [Fabiana Freitas](https://github.com/profaFabianaMendes), our professor at the University.  
 
-*Created by Bruno and Igor in 2022*
+*Created by Igor and Bruno in 2022*
